@@ -1,3 +1,3 @@
 # Lessons
-My lessons, my home tasks and some mistakes which can become during the process of studying programming by C# language
-All materials are using from YouTube channel - #SimpleCode
+My lessons, homework and some errors that may arise in the process of learning C # programming
+All materials are used from YouTube channel - #SimpleCode
